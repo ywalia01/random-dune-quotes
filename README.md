@@ -11,8 +11,6 @@ npm install random-dune-quotes
 ## Usage
 
 ```javascript
-// code away!
-
 const randomQuote = require("random-dune-quotes");
 console.log(randomQuote());
 ```
