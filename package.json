@@ -1,5 +1,5 @@
 {
-  "name": "random-dune-quote",
+  "name": "random-dune-quotes",
   "version": "1.0.0",
   "description": "A package that serves a random quote from the Dune franchise",
   "main": "index.js",
