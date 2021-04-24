@@ -6,9 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\""
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ywalia01/random-dune-quotes.git"
+  },
   "keywords": [
-    "dune"
+    "dune",
+    "frank herbert",
+    "quote"
   ],
   "author": "Yash Walia",
-  "license": "MIT"
+  "license": "MIT",
+   "bugs": {
+    "url": "https://github.com/ywalia01/random-dune-quotes/issues"
+  }
 }
